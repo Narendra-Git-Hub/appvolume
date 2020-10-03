@@ -1,4 +1,4 @@
-## Usage
+## utilization 
 
 Place this somewhere in your path with execute permissions.
 
